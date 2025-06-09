@@ -1,4 +1,6 @@
-**💻Lab Objectives**
+**💻BASICS OF JAVASCRIPT**
+
+*Lab Objectives*
 - ☑️Declare and use JavaScript variables
 - 🔖Identify and demonstrate different data types
 - 🗣️Apply basic JavaScript operators
